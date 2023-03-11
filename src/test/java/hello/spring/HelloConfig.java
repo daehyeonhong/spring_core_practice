@@ -1,6 +1,5 @@
-package hello.spring.config;
+package hello.spring;
 
-import hello.spring.controller.HelloController;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
